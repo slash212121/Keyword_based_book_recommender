@@ -67,3 +67,4 @@ ex)"extraction"의 Keyword Score = (3+3+1+1)/3 = 8/3 = 2.66
 
 4. 코사인유사도를 통한 문서유사도 비교
 TF-IDF을 통해 키워드들을 벡터공간에 임베딩했으니, 문서간의 코사인유사도를 비교하여 비슷한 책들을 추천할 수 있게 모델을 구성했다. 
+![alt text](https://lh3.googleusercontent.com/proxy/ATg2V__M7elGRF5r7BfeV-Z3TjuWESUft-G6AxKosriRYjocB-CzdFQ_eDmQWsh8Tgs1nyfUB_YFX9lHCFsq556yqn4UXjQT1ekOQwda28SYhppRHUvJaoFSTAuVAr852WFuSpwIWjo-KPKEdYdpz27ElEwwM4HOLDs204-qGw)
