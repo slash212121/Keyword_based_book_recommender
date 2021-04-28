@@ -61,6 +61,6 @@ ex)"extraction"의 Keyword Score = (3+3+1+1)/3 = 8/3 = 2.66
 이들 단어 중에 상위 5개를 선정하도록 하였다.
 
 3.추출된 키워드의 TF-IDF 벡터화
-추출된 단어를 현문서와 다른 문서간의 상대적 빈도수를 비교하여 임베딩하는 count-based 임베딩 기법인 TF-IDF기법을 통해 벡터공간에 나타낸다.
+추출된 단어를 현문서와 다른 문서간의 상대적 빈도수를 비교하여 임베딩하는 count-based 임베딩 기법인 TF-IDF기법을 통해 벡터공간에 나타낸다. 만약 한 단어가 특정 문서에 자주 등장하고 상대적으로 다른 문서에서 적게 등장한다면 그 TF-IDF수치는 높아진다.
 
-
+![alt text](https://res.cloudinary.com/practicaldev/image/fetch/s--eLmO8h_j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/18yn802w91wrzc1y2uud.png)
